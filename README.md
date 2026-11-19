@@ -7,6 +7,11 @@
 | `$animate` | Анимации и переходы в интерфейсах |
 | `$canvas-design` | Плакаты, обложки и статичные макеты |
 | `$algorithmic-art` | Генеративные паттерны, текстуры и серии визуалов |
+| [Marketing Skills Кори Хейнса](https://github.com/coreyhaines31/marketingskills) | 53 навыка для маркетинга, включая `$copywriting`, `$seo-audit`, `$content-strategy` и `$cro` |
+| [`$stop-slop`](https://github.com/hardikpandya/stop-slop) | Редактура прозы и устранение шаблонных оборотов |
+| [`$ui-ux-pro-max`](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Подбор дизайн-системы, палитры и типографики, ревью интерфейса |
+
+Для поиска по каталогам UI/UX Pro Max нужен Python 3.
 
 Подключи этот репозиторий к облачной среде Codex «Дизайн». В чате настройки среды попроси запустить из корня репозитория:
 
